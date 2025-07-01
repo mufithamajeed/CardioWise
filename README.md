@@ -38,11 +38,9 @@ CardioWise/
 ├── model/
 │   └── rf_model.pkl        # Trained Random Forest model
 ├── data/
-│   └── dataset.csv         # Input clinical dataset (optional to share)
+│   └── dataset.csv         # Input clinical dataset
 ├── utils/
 │   └── explainer.py        # SHAP functions and helper utilities
-├── notebooks/
-│   └── 01_EDA_and_Model.ipynb  # Local training + analysis (not published)
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
